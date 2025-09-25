@@ -6,7 +6,6 @@ Welcome to my digital playground!
 This is not just a portfolio—it's a living, breathing showcase of my journey as a developer, innovator, and lifelong learner.
 
 ---
-
 ## ✨ Features
 
 - **Dynamic Hero & About Sections:** Get to know me at a glance.
