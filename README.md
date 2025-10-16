@@ -1,4 +1,20 @@
+# My Personal Portfolio
+![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
+---
 
+Welcome to my digital playground!  
+This is not just a portfolio—it's a living, breathing showcase of my journey as a developer, innovator, and lifelong learner.
+---
+## ✨ Features
+
+- **Dynamic Hero & About Sections:** Get to know me at a glance.
+- **Tech Stack Carousel:** Explore the technologies I wield.
+- **Animated Achievements Slideshow:** See my proudest moments, complete with certificates and awards.
+- **Project Gallery:** Dive into my favorite creations, each with live demos and code links.
+- **Responsive Design:** Looks stunning on any device.
+- **Modern UI:** Crafted with React, Tailwind CSS, and slick-carousel for smooth, interactive experiences.
+
+---
 
 
 ## 🛠️ Built With
